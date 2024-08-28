@@ -7,6 +7,18 @@ O desafio envolveu a criação de cenários de testes para as situações de Log
 
 
 
+## Autoras
+Beatriz Abdon, 
+Débora da Costa Medeiros,
+Ligiane Basques,
+Michelle Barreto.
+
+---
+
+Todos os direitos reservados.
+
+
+
 
 
 
